@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, Eu sou Marcos 👋
 
-<!--
-**Marcoalmd/marcoalmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, aprendizado contínuo e resolução de problemas. Tenho experiência com várias tecnologias e estou sempre buscando me aprimorar. Gosto de trabalhar em projetos desafiadores e colaborar com outros desenvolvedores.
 
-Here are some ideas to get you started:
+🔭 Atualmente, estou estudando **analise de dados e desenvolvimento de sistemas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 No momento, estou aprendendo mais sobre **java**.
+
+🤔 Pergunte-me sobre **Node.js**, **java** e **Python**.
+
+⚡ Curiosidade: Eu adoro **viajar**, **fotografar** e **tocar violão** nas horas vagas.
+
+
+## Como você pode me encontrar
+
+- 💼 **LinkedIn**: [linkedin.com/in/seunome](https://www.linkedin.com/in/seunome)
+
+- 📧 **E-mail**: rappanters2.0@gmail.com
